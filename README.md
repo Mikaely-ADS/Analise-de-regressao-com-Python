@@ -102,3 +102,7 @@ Este projeto foi desenvolvido como parte de um desafio prático de análise de d
 
 
 ---
+
+## O que aprendi com essa ánalise 
+
+A experiência é um dos principais fatores de impacto no salário, mesmo assim, a localização geográfica ainda influencia fortemente a remuneração. Cargos especializados possuem maior valorização e o trabalho remoto apresenta competitividade global. 
